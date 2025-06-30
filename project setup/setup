@@ -1,1 +1,18 @@
+# webscrapper by scrapy
 
+## install python
+1.go to <https://www.python.org/>
+2.install python
+
+## set up virtual environment
+ 1. create virtual environment
+''' python
+python -m venv <virtual environment name>
+'''
+## activate env
+'''python
+
+'''
+## install scrapy
+## create project
+## create spider
