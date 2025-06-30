@@ -10,9 +10,6 @@
 python -m venv <virtual environment name>
 '''
 ## activate env
-'''python
-
-'''
 ## install scrapy
 ## create project
 ## create spider
