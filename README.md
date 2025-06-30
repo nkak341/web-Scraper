@@ -24,13 +24,13 @@ webscrapper/
 │   └── ...  
 ├── scrapy.cfg          # Project config  
 └── README.md           # This file  
-
+  
 📄 License
 This project is licensed under the MIT License.
+  
 
-
-👨‍💻 Author
-MD Azam Khan
-GitHub: @nkak341
+👨‍💻 Author  
+MD Azam Khan  
+GitHub: @nkak341  
 Linkedln: 
 
