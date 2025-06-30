@@ -13,17 +13,17 @@
 - 🛡️ Error handling and retry logic for robust scraping
 
 ---
-📂 Project Structure
-webscrapper/
-│
-├── webscrapper/        # Scrapy project folder
-│   ├── spiders/        # Your spiders go here
-│   ├── items.py        # Define your data model here
-│   ├── pipelines.py    # Optional: data processing
-│   ├── settings.py     # Scrapy settings
-│   └── ...
-├── scrapy.cfg          # Project config
-└── README.md           # This file
+📂 Project Structure  
+webscrapper/  
+|  
+├── webscrapper/        # Scrapy project folder  
+│   ├── spiders/        # Your spiders go here  
+│   ├── items.py        # Define your data model here  
+│   ├── pipelines.py    # Optional: data processing  
+│   ├── settings.py     # Scrapy settings  
+│   └── ...  
+├── scrapy.cfg          # Project config  
+└── README.md           # This file  
 
 📄 License
 This project is licensed under the MIT License.
